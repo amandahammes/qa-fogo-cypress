@@ -1,0 +1,22 @@
+{
+  "name": "qa-fogo-cypress",
+  "version": "1.0.0",
+  "description": "npm init\r     1. confirmar nome\r     2. qual a versão do projeto\r     3. descrição\r     4. ponto de entrada\r     5. comando de teste: comando que vai ser executado quando você pedir pra rodar o script. Sugestão: npx cypress open",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandahammes/qa-fogo-cypress.git"
+  },
+  "author": "Amanda Hammes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandahammes/qa-fogo-cypress/issues"
+  },
+  "homepage": "https://github.com/amandahammes/qa-fogo-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
